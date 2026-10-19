@@ -1,0 +1,3 @@
+{"output": "User: What is NovaMind AI?\nAI: NovaMind AI is a 100% native desktop artificial intelligence platform built using Python and PyQt6, designed to run locally on low-resource hardware like an 8 GB RAM Lenovo ThinkPad E490 using CPU execution and the Qwen 2.5 0.5B-Instruct model."}
+{"output": "User: How do I switch AI modes?\nAI: You can switch between the four AI modes—Lightning, Balancer, Max, and Automator—using the dedicated sidebar group box on the Inference Engine tab."}
+{"output": "User: Where are chat logs saved?\nAI: All user inferences and training records are automatically logged and persisted locally in an SQLite database file named novamind_ai.db."}
