@@ -1,0 +1,1 @@
+pip install torch transformers PyQt6 datasets peft trl accelerate
